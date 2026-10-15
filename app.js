@@ -14,13 +14,13 @@ try { console.log('BKM e-Time build', BUILD); } catch (e) {}
    ห้ามลบเครื่องหมายคำพูด จุลภาค และวงเล็บปีกกา
    ========================================================== */
 const FIREBASE_CONFIG = {
-  apiKey:            "ใส่ค่า apiKey",
-  authDomain:        "ใส่ค่า authDomain",
-  databaseURL:       "ใส่ค่า databaseURL",
-  projectId:         "ใส่ค่า projectId",
-  storageBucket:     "ใส่ค่า storageBucket",
-  messagingSenderId: "ใส่ค่า messagingSenderId",
-  appId:             "ใส่ค่า appId"
+  apiKey:            "AIzaSyD7nlHB9GE7AU85fGsB_fvY9iUa2v5r_tI",
+  authDomain:        "time-line-e7afa.firebaseapp.com",
+  databaseURL:       "time-line-e7afa",
+  projectId:         "https://time-line-e7afa-default-rtdb.asia-southeast1.firebasedatabase.app",
+  storageBucket:     "time-line-e7afa.firebasestorage.app",
+  messagingSenderId: "306374764431",
+  appId:             "1:306374764431:web:8784d6e790978699c70dfa"
 };
 
 const SDK_VER = '10.12.2';
