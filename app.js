@@ -16,11 +16,11 @@ try { console.log('BKM e-Time build', BUILD); } catch (e) {}
 const FIREBASE_CONFIG = {
   apiKey:            "AIzaSyD7nlHB9GE7AU85fGsB_fvY9iUa2v5r_tI",
   authDomain:        "time-line-e7afa.firebaseapp.com",
-  databaseURL:       "time-line-e7afa",
-  projectId:         "https://time-line-e7afa-default-rtdb.asia-southeast1.firebasedatabase.app",
+  databaseURL:       "https://time-line-e7afa-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId:         "time-line-e7afa",
   storageBucket:     "time-line-e7afa.firebasestorage.app",
   messagingSenderId: "306374764431",
-  appId:             "1:306374764431:web:8784d6e790978699c70dfa"
+  appId:             "time-line-e7afa.firebasestorage.app"
 };
 
 const SDK_VER = '10.12.2';
